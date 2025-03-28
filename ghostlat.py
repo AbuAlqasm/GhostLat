@@ -6,7 +6,7 @@ import threading
 import subprocess
 import base64
 import uuid
-from scapy.all import *  # pip install scapy
+
 from fake_useragent import UserAgent
 import requests
 import hashlib
